@@ -1,0 +1,808 @@
+>> 
+>> A
+
+A =
+
+     2    -3     0     7
+    -2     1     0     4
+
+A= 1:10
+
+A =
+
+     1     2     3     4     5     6     7     8     9    10
+
+clear all
+A
+Unrecognized function or variable 'A'.
+ 
+B=ones(5)
+
+B =
+
+     1     1     1     1     1
+     1     1     1     1     1
+     1     1     1     1     1
+     1     1     1     1     1
+     1     1     1     1     1
+
+c=eye(5)
+
+c =
+
+     1     0     0     0     0
+     0     1     0     0     0
+     0     0     1     0     0
+     0     0     0     1     0
+     0     0     0     0     1
+
+m= zeros(5)
+
+m =
+
+     0     0     0     0     0
+     0     0     0     0     0
+     0     0     0     0     0
+     0     0     0     0     0
+     0     0     0     0     0
+
+D=rand(5)
+
+D =
+
+    0.8147    0.0975    0.1576    0.1419    0.6557
+    0.9058    0.2785    0.9706    0.4218    0.0357
+    0.1270    0.5469    0.9572    0.9157    0.8491
+    0.9134    0.9575    0.4854    0.7922    0.9340
+    0.6324    0.9649    0.8003    0.9595    0.6787
+
+A
+Unrecognized function or variable 'A'.
+ 
+C+B
+Unrecognized function or variable 'C'.
+ 
+Did you mean:
+m+d
+Unrecognized function or variable 'd'.
+ 
+Did you mean:
+m+D
+
+ans =
+
+    0.8147    0.0975    0.1576    0.1419    0.6557
+    0.9058    0.2785    0.9706    0.4218    0.0357
+    0.1270    0.5469    0.9572    0.9157    0.8491
+    0.9134    0.9575    0.4854    0.7922    0.9340
+    0.6324    0.9649    0.8003    0.9595    0.6787
+
+C+B
+Unrecognized function or variable 'C'.
+ 
+Did you mean:
+c+B
+
+ans =
+
+     2     1     1     1     1
+     1     2     1     1     1
+     1     1     2     1     1
+     1     1     1     2     1
+     1     1     1     1     2
+
+C-B
+Unrecognized function or variable 'C'.
+ 
+Did you mean:
+c-B
+
+ans =
+
+     0    -1    -1    -1    -1
+    -1     0    -1    -1    -1
+    -1    -1     0    -1    -1
+    -1    -1    -1     0    -1
+    -1    -1    -1    -1     0
+
+C*B
+Unrecognized function or variable 'C'.
+ 
+Did you mean:
+c*B
+
+ans =
+
+     1     1     1     1     1
+     1     1     1     1     1
+     1     1     1     1     1
+     1     1     1     1     1
+     1     1     1     1     1
+
+A=[2 1 3 0;-4 3 44 1; 33 5 77 0]
+
+A =
+
+     2     1     3     0
+    -4     3    44     1
+    33     5    77     0
+
+
+A =
+
+     2     1     3     0
+    -4     3    44     1
+    33     5    77     0
+
+ A =
+    ↑
+Error: Invalid expression. Check for missing or extra characters.
+ 
+>> A
+
+A =
+
+     2    -3     0     7
+    -2     1     0     4
+
+A= 1:10
+
+A =
+
+     1     2     3     4     5     6     7     8     9    10
+
+clear all
+A
+Unrecognized function or variable 'A'.
+ 
+B=ones(5)
+
+B =
+
+     1     1     1     1     1
+     1     1     1     1     1
+     1     1     1     1     1
+     1     1     1     1     1
+     1     1     1     1     1
+
+c=eye(5)
+
+c =
+
+     1     0     0     0     0
+     0     1     0     0     0
+     0     0     1     0     0
+     0     0     0     1     0
+     0     0     0     0     1
+
+m= zeros(5)
+
+m =
+
+     0     0     0     0     0
+     0     0     0     0     0
+     0     0     0     0     0
+     0     0     0     0     0
+     0     0     0     0     0
+
+D=rand(5)
+
+D =
+
+    0.8147    0.0975    0.1576    0.1419    0.6557
+    0.9058    0.2785    0.9706    0.4218    0.0357
+    0.1270    0.5469    0.9572    0.9157    0.8491
+    0.9134    0.9575    0.4854    0.7922    0.9340
+    0.6324    0.9649    0.8003    0.9595    0.6787
+
+A
+Unrecognized function or variable 'A'.
+ 
+C+B
+Unrecognized function or variable 'C'.
+ 
+Did you mean:
+m+d
+Unrecognized function or variable 'd'.
+ 
+Did you mean:
+m+D
+
+ans =
+
+    0.8147    0.0975    0.1576    0.1419    0.6557
+    0.9058    0.2785    0.9706    0.4218    0.0357
+    0.1270    0.5469    0.9572    0.9157    0.8491
+    0.9134    0.9575    0.4854    0.7922    0.9340
+    0.6324    0.9649    0.8003    0.9595    0.6787
+
+C+B
+Unrecognized function or variable 'C'.
+ 
+Did you mean:
+c+B
+
+ans =
+
+     2     1     1     1     1
+     1     2     1     1     1
+     1     1     2     1     1
+     1     1     1     2     1
+     1     1     1     1     2
+
+C-B
+Unrecognized function or variable 'C'.
+ 
+Did you mean:
+c-B
+
+ans =
+
+     0    -1    -1    -1    -1
+    -1     0    -1    -1    -1
+    -1    -1     0    -1    -1
+    -1    -1    -1     0    -1
+    -1    -1    -1    -1     0
+
+C*B
+Unrecognized function or variable 'C'.
+ 
+Did you mean:
+c*B
+
+ans =
+
+     1     1     1     1     1
+     1     1     1     1     1
+     1     1     1     1     1
+     1     1     1     1     1
+     1     1     1     1     1
+
+A=[2 1 3 0;-4 3 44 1; 33 5 77 0]
+
+A =
+
+     2     1     3     0
+    -4     3    44     1
+    33     5    77     0
+
+
+A =
+
+     2     1     3     0
+    -4     3    44     1
+    33     5    77     0
+
+ A =
+    ↑
+Error: Invalid expression. Check for missing or extra characters.
+ 
+>> A
+
+A =
+
+     2    -3     0     7
+    -2     1     0     4
+
+A= 1:10
+
+A =
+
+     1     2     3     4     5     6     7     8     9    10
+
+clear all
+A
+Unrecognized function or variable 'A'.
+ 
+B=ones(5)
+
+B =
+
+     1     1     1     1     1
+     1     1     1     1     1
+     1     1     1     1     1
+     1     1     1     1     1
+     1     1     1     1     1
+
+c=eye(5)
+
+c =
+
+     1     0     0     0     0
+     0     1     0     0     0
+     0     0     1     0     0
+     0     0     0     1     0
+     0     0     0     0     1
+
+m= zeros(5)
+
+m =
+
+     0     0     0     0     0
+     0     0     0     0     0
+     0     0     0     0     0
+     0     0     0     0     0
+     0     0     0     0     0
+
+D=rand(5)
+
+D =
+
+    0.8147    0.0975    0.1576    0.1419    0.6557
+    0.9058    0.2785    0.9706    0.4218    0.0357
+    0.1270    0.5469    0.9572    0.9157    0.8491
+    0.9134    0.9575    0.4854    0.7922    0.9340
+    0.6324    0.9649    0.8003    0.9595    0.6787
+
+A
+Unrecognized function or variable 'A'.
+ 
+C+B
+Unrecognized function or variable 'C'.
+ 
+Did you mean:
+m+d
+Unrecognized function or variable 'd'.
+ 
+Did you mean:
+m+D
+
+ans =
+
+    0.8147    0.0975    0.1576    0.1419    0.6557
+    0.9058    0.2785    0.9706    0.4218    0.0357
+    0.1270    0.5469    0.9572    0.9157    0.8491
+    0.9134    0.9575    0.4854    0.7922    0.9340
+    0.6324    0.9649    0.8003    0.9595    0.6787
+
+C+B
+Unrecognized function or variable 'C'.
+ 
+Did you mean:
+c+B
+
+ans =
+
+     2     1     1     1     1
+     1     2     1     1     1
+     1     1     2     1     1
+     1     1     1     2     1
+     1     1     1     1     2
+
+C-B
+Unrecognized function or variable 'C'.
+ 
+Did you mean:
+c-B
+
+ans =
+
+     0    -1    -1    -1    -1
+    -1     0    -1    -1    -1
+    -1    -1     0    -1    -1
+    -1    -1    -1     0    -1
+    -1    -1    -1    -1     0
+
+C*B
+Unrecognized function or variable 'C'.
+ 
+Did you mean:
+c*B
+
+ans =
+
+     1     1     1     1     1
+     1     1     1     1     1
+     1     1     1     1     1
+     1     1     1     1     1
+     1     1     1     1     1
+
+A=[2 1 3 0;-4 3 44 1; 33 5 77 0]
+
+A =
+
+     2     1     3     0
+    -4     3    44     1
+    33     5    77     0
+
+
+A =
+
+     2     1     3     0
+    -4     3    44     1
+    33     5    77     0
+
+ A =
+    ↑
+Error: Invalid expression. Check for missing or extra characters.
+ 
+>> A
+
+A =
+
+     2    -3     0     7
+    -2     1     0     4
+
+A= 1:10
+
+A =
+
+     1     2     3     4     5     6     7     8     9    10
+
+clear all
+A
+Unrecognized function or variable 'A'.
+ 
+B=ones(5)
+
+B =
+
+     1     1     1     1     1
+     1     1     1     1     1
+     1     1     1     1     1
+     1     1     1     1     1
+     1     1     1     1     1
+
+c=eye(5)
+
+c =
+
+     1     0     0     0     0
+     0     1     0     0     0
+     0     0     1     0     0
+     0     0     0     1     0
+     0     0     0     0     1
+
+m= zeros(5)
+
+m =
+
+     0     0     0     0     0
+     0     0     0     0     0
+     0     0     0     0     0
+     0     0     0     0     0
+     0     0     0     0     0
+
+D=rand(5)
+
+D =
+
+    0.8147    0.0975    0.1576    0.1419    0.6557
+    0.9058    0.2785    0.9706    0.4218    0.0357
+    0.1270    0.5469    0.9572    0.9157    0.8491
+    0.9134    0.9575    0.4854    0.7922    0.9340
+    0.6324    0.9649    0.8003    0.9595    0.6787
+
+A
+Unrecognized function or variable 'A'.
+ 
+C+B
+Unrecognized function or variable 'C'.
+ 
+Did you mean:
+m+d
+Unrecognized function or variable 'd'.
+ 
+Did you mean:
+m+D
+
+ans =
+
+    0.8147    0.0975    0.1576    0.1419    0.6557
+    0.9058    0.2785    0.9706    0.4218    0.0357
+    0.1270    0.5469    0.9572    0.9157    0.8491
+    0.9134    0.9575    0.4854    0.7922    0.9340
+    0.6324    0.9649    0.8003    0.9595    0.6787
+
+C+B
+Unrecognized function or variable 'C'.
+ 
+Did you mean:
+c+B
+
+ans =
+
+     2     1     1     1     1
+     1     2     1     1     1
+     1     1     2     1     1
+     1     1     1     2     1
+     1     1     1     1     2
+
+C-B
+Unrecognized function or variable 'C'.
+ 
+Did you mean:
+c-B
+
+ans =
+
+     0    -1    -1    -1    -1
+    -1     0    -1    -1    -1
+    -1    -1     0    -1    -1
+    -1    -1    -1     0    -1
+    -1    -1    -1    -1     0
+
+C*B
+Unrecognized function or variable 'C'.
+ 
+Did you mean:
+c*B
+
+ans =
+
+     1     1     1     1     1
+     1     1     1     1     1
+     1     1     1     1     1
+     1     1     1     1     1
+     1     1     1     1     1
+
+A=[2 1 3 0;-4 3 44 1; 33 5 77 0]
+
+A =
+
+     2     1     3     0
+    -4     3    44     1
+    33     5    77     0
+
+
+A =
+
+     2     1     3     0
+    -4     3    44     1
+    33     5    77     0
+
+ A =
+    ↑
+Error: Invalid expression. Check for missing or extra characters.
+ 
+>> 
+>> who
+
+Your variables are:
+
+A    B    D    ans  c    m    
+
+>> whos
+  Name      Size            Bytes  Class     Attributes
+
+  A         3x4                96  double              
+  B         5x5               200  double              
+  D         5x5               200  double              
+  ans       5x5               200  double              
+  c         5x5               200  double              
+  m         5x5               200  double              
+
+>> size(B)
+
+ans =
+
+     5     5
+
+>> A^2
+Error using  ^ 
+Incorrect dimensions for raising a matrix to a power. Check that the matrix is square and the power is
+a scalar. To operate on each element of the matrix individually, use POWER (.^) for elementwise power.
+ 
+>> A.^2
+
+ans =
+
+           4           1           9           0
+          16           9        1936           1
+        1089          25        5929           0
+
+>> w = B+4*C
+Unrecognized function or variable 'C'.
+ 
+Did you mean:
+>> w = B+4*c
+
+w =
+
+     5     1     1     1     1
+     1     5     1     1     1
+     1     1     5     1     1
+     1     1     1     5     1
+     1     1     1     1     5
+
+>> 2     1     3     0
+ 2     1     3     0
+       ↑
+Invalid expression. Check for missing multiplication operator, missing or unbalanced delimiters, or
+other syntax error. To construct matrices, use brackets instead of parentheses.
+ 
+>> diag(w)
+
+ans =
+
+     5
+     5
+     5
+     5
+     5
+
+>> w
+
+w =
+
+     5     1     1     1     1
+     1     5     1     1     1
+     1     1     5     1     1
+     1     1     1     5     1
+     1     1     1     1     5
+
+>> w(2,:)=[]
+
+w =
+
+     5     1     1     1     1
+     1     1     5     1     1
+     1     1     1     5     1
+     1     1     1     1     5
+
+>> w;
+>> Z=w*B'
+
+Z =
+
+     9     9     9     9     9
+     9     9     9     9     9
+     9     9     9     9     9
+     9     9     9     9     9
+
+>> 
+>> A(:,3)=[]
+
+A =
+
+     2     1     0
+    -4     3     1
+    33     5     0
+
+>> A(2,:)=[]
+
+A =
+
+     2     1     0
+    33     5     0
+
+>> S =rand(6)
+
+S =
+
+    0.7577    0.0318    0.3171    0.7952    0.7547    0.4984
+    0.7431    0.2769    0.9502    0.1869    0.2760    0.9597
+    0.3922    0.0462    0.0344    0.4898    0.6797    0.3404
+    0.6555    0.0971    0.4387    0.4456    0.6551    0.5853
+    0.1712    0.8235    0.3816    0.6463    0.1626    0.2238
+    0.7060    0.6948    0.7655    0.7094    0.1190    0.7513
+
+>> p=rand(6)
+
+p =
+
+    0.2551    0.1386    0.2435    0.4733    0.2858    0.0540
+    0.5060    0.1493    0.9293    0.3517    0.7572    0.5308
+    0.6991    0.2575    0.3500    0.8308    0.7537    0.7792
+    0.8909    0.8407    0.1966    0.5853    0.3804    0.9340
+    0.9593    0.2543    0.2511    0.5497    0.5678    0.1299
+    0.5472    0.8143    0.6160    0.9172    0.0759    0.5688
+
+>> U=reshap(S)
+Unrecognized function or variable 'reshap'.
+ 
+Did you mean:
+>> U=reshape(S)
+Error using reshape
+Not enough input arguments.
+ 
+>> U=reshap(S,6,1)
+Unrecognized function or variable 'reshap'.
+ 
+Did you mean:
+>> U=reshape(S,6,1)
+Error using reshape
+Number of elements must not change. Use [] as one of the size inputs to automatically calculate the
+appropriate size for that dimension.
+ 
+>> K=reshap(S,6,1)
+Unrecognized function or variable 'reshap'.
+ 
+Did you mean:
+>> K=reshape(S,6,1)
+Error using reshape
+Number of elements must not change. Use [] as one of the size inputs to automatically calculate the
+appropriate size for that dimension.
+ 
+>> R =zeros(6)
+
+R =
+
+     0     0     0     0     0     0
+     0     0     0     0     0     0
+     0     0     0     0     0     0
+     0     0     0     0     0     0
+     0     0     0     0     0     0
+     0     0     0     0     0     0
+
+>> R+S
+
+ans =
+
+    0.7577    0.0318    0.3171    0.7952    0.7547    0.4984
+    0.7431    0.2769    0.9502    0.1869    0.2760    0.9597
+    0.3922    0.0462    0.0344    0.4898    0.6797    0.3404
+    0.6555    0.0971    0.4387    0.4456    0.6551    0.5853
+    0.1712    0.8235    0.3816    0.6463    0.1626    0.2238
+    0.7060    0.6948    0.7655    0.7094    0.1190    0.7513
+
+>> 2     1     3     0
+ 2     1     3     0
+       ↑
+Invalid expression. Check for missing multiplication operator, missing or unbalanced delimiters, or
+other syntax error. To construct matrices, use brackets instead of parentheses.
+ 
+>> F=rand(1)
+
+F =
+
+    0.4694
+
+>> R(:,1)=s
+Unrecognized function or variable 's'.
+ 
+Did you mean:
+>> R(:,1)=S
+Unable to perform assignment because the size of the left side is 6-by-1 and the size of the right side
+is 6-by-6.
+ 
+>> R(:,1)=f
+Unrecognized function or variable 'f'.
+ 
+Did you mean:
+>> R(:,1)=F
+
+R =
+
+    0.4694         0         0         0         0         0
+    0.4694         0         0         0         0         0
+    0.4694         0         0         0         0         0
+    0.4694         0         0         0         0         0
+    0.4694         0         0         0         0         0
+    0.4694         0         0         0         0         0
+
+>> R(:,4)=F
+
+R =
+
+    0.4694         0         0    0.4694         0         0
+    0.4694         0         0    0.4694         0         0
+    0.4694         0         0    0.4694         0         0
+    0.4694         0         0    0.4694         0         0
+    0.4694         0         0    0.4694         0         0
+    0.4694         0         0    0.4694         0         0
+
+>> R(6,4)=99
+
+R =
+
+    0.4694         0         0    0.4694         0         0
+    0.4694         0         0    0.4694         0         0
+    0.4694         0         0    0.4694         0         0
+    0.4694         0         0    0.4694         0         0
+    0.4694         0         0    0.4694         0         0
+    0.4694         0         0   99.0000         0         0
+
+>> R(6,6)=77;
+>> R
+
+R =
+
+    0.4694         0         0    0.4694         0         0
+    0.4694         0         0    0.4694         0         0
+    0.4694         0         0    0.4694         0         0
+    0.4694         0         0    0.4694         0         0
+    0.4694         0         0    0.4694         0         0
+    0.4694         0         0   99.0000         0   77.0000
+
+>> 
